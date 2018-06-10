@@ -1,0 +1,9 @@
+C:\Users\Emer\Desktop\Github\Smallest Missing Integer\Smallest Missing Integer\bin\Debug\Smallest Missing Integer.exe.config
+C:\Users\Emer\Desktop\Github\Smallest Missing Integer\Smallest Missing Integer\bin\Debug\Smallest Missing Integer.exe
+C:\Users\Emer\Desktop\Github\Smallest Missing Integer\Smallest Missing Integer\bin\Debug\Smallest Missing Integer.pdb
+C:\Users\Emer\Desktop\Github\Smallest Missing Integer\Smallest Missing Integer\obj\Debug\Smallest Missing Integer.csprojResolveAssemblyReference.cache
+C:\Users\Emer\Desktop\Github\Smallest Missing Integer\Smallest Missing Integer\obj\Debug\Smallest Missing Integer.exe
+C:\Users\Emer\Desktop\Github\Smallest Missing Integer\Smallest Missing Integer\obj\Debug\Smallest Missing Integer.pdb
+C:\Users\Emer\Desktop\Github\Smallest-Missing-Positive-Integer\Smallest Missing Integer\bin\Debug\Smallest Missing Integer.exe.config
+C:\Users\Emer\Desktop\Github\Smallest-Missing-Positive-Integer\Smallest Missing Integer\obj\Debug\Smallest Missing Integer.exe
+C:\Users\Emer\Desktop\Github\Smallest-Missing-Positive-Integer\Smallest Missing Integer\obj\Debug\Smallest Missing Integer.pdb
